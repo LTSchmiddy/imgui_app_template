@@ -1,5 +1,8 @@
 # Directories:
+/.vscode
 /vcpkg
+/build
+/cwd
 
 # Files
 /CMakeUserPresets.json
